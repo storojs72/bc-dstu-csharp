@@ -8,4 +8,5 @@ Great thanks to Roman Oliynykov for initial C implementations of [DSTU 7624](htt
 
 and to João H de A Franco for Python implementation of [Multiplication over GF(2^m)](https://jhafranco.com/2012/02/17/multiplication-over-the-binary-finite-field-gf2m/).
 
+[C#](https://www.bouncycastle.org/csharp/index.html) is fully supported. [Java](https://www.bouncycastle.org/java.html) is comming...
 
