@@ -1,8 +1,6 @@
 # bc-dstu
 
 BouncyCastle with new ukrainian national standarts of block cipher (DSTU7624) and hash function (DSTU7564)
-Initial implemetations of DSTU 7624 (block cipher) and DSTU 7564 (hash function)
-
 
 Great thanks Roman Oliynykov for initial C implementations:
 ----------------------------------------------------------------------------------
