@@ -7,5 +7,5 @@ BouncyCastle with new ukrainian national standarts of block cipher (DSTU7624) an
 Roman Oliynykov for initial C implementations of [DSTU 7624](https://github.com/Roman-Oliynykov/Kalyna-reference) and [DSTU 7564](https://github.com/Roman-Oliynykov/Kupyna-reference)
 João H de A Franco for Python implementation of [Multiplication over GF(2^m)](https://jhafranco.com/2012/02/17/multiplication-over-the-binary-finite-field-gf2m/).
 
-[C#](https://www.bouncycastle.org/csharp/index.html) is fully supported. [Java](https://www.bouncycastle.org/java.html) is comming...
+[C#](https://www.bouncycastle.org/csharp/index.html) is completed. [Java](https://www.bouncycastle.org/java.html) is comming...
 
