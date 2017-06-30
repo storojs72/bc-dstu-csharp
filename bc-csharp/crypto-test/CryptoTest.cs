@@ -20,9 +20,10 @@ namespace crypto_test
                 //Org.BouncyCastle.Bcpg.OpenPgp.Examples.Tests.AllTests.Main(args);
                 //Org.BouncyCastle.Cms.Tests.AllTests.Main(args);
                 //Org.BouncyCastle.Crypto.Agreement.Tests.AllTests.Main(args);
-                Org.BouncyCastle.Crypto.Tests.Dstu7624Test.Main(args);   
-                Org.BouncyCastle.Crypto.Tests.Dstu7564Test.Main(args);
-                Org.BouncyCastle.Crypto.Tests.Gost28147Test.Main(args);
+                Org.BouncyCastle.Crypto.Tests.Dstu4145Test.Main(args);
+                //Org.BouncyCastle.Crypto.Tests.Dstu7624Test.Main(args);   
+                //Org.BouncyCastle.Crypto.Tests.Dstu7564Test.Main(args);
+                //Org.BouncyCastle.Crypto.Tests.Gost28147Test.Main(args);
                 //Org.BouncyCastle.Crypto.Tests.RegressionTest.Main(args);
                 //Org.BouncyCastle.Crypto.IO.Tests.AllTests.Main(args);
                 //Org.BouncyCastle.Math.Tests.AllTests.Main(args);
