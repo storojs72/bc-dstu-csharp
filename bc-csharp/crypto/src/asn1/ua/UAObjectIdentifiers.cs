@@ -14,6 +14,9 @@ namespace Org.BouncyCastle.Asn1.UA {
       /** Base OID: 1.2.804.2.1.1.1 */
       public static readonly DerObjectIdentifier UaOid = new DerObjectIdentifier("1.2.804.2.1.1.1");
 
+      /** DSTU GOST 34311. OID: 1.2.804.2.1.1.1.1.2.1 */
+      public static readonly DerObjectIdentifier gost34311 = UaOid.Branch("1.2.1");
+
       /** DSTU4145 Little Endian presentation.  OID: 1.2.804.2.1.1.1.1.3.1.1 */
       public static readonly DerObjectIdentifier dstu4145le = UaOid.Branch("1.3.1.1");
       /** DSTU4145 Big Endian presentation.  OID: 1.2.804.2.1.1.1.1.3.1.1.1 */
